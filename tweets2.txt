@@ -1,0 +1,14 @@
+Below is analysis of tweets mentioning Donald Trump:
+People are not very opinionated about Trump.
+Excluding neutral opinion, people tend to be positive about Trump.
+There are 30 positive tweets.
+There are 22 negative tweets.
+There are 48 neutral tweets.
+
+
+Below is analysis of tweets mentioning Hillary Clinton:
+People are not very opinionated about Clinton.
+Excluding neutral opinion, people tend to be negative about Clinton.
+There are 15 positive tweets.
+There are 19 negative tweets.
+There are 66 neutral tweets.
